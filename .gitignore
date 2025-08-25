@@ -1,0 +1,6 @@
+venv/
+temp/
+coding-agent-ui/node_modules
+_pycache_
+*._pycache_
+*.pyc
